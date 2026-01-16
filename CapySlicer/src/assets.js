@@ -14,7 +14,7 @@ export default {
     'spritesheet': {
         tiles: {
             key: 'tiles',
-            args: ['assets/capy1.png', {
+            args: ['CapySlicer/assets/capy1.png', {
                 frameWidth: 500,
                 frameHeight: 500,
             }]
